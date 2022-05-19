@@ -1,0 +1,17 @@
+.sim{
+    display: flex;
+    justify-content: center;
+    background-color: rgb(240, 102, 221);
+    border: solid;
+}
+
+h1{
+    display: flex;
+   
+    background-color: rgb(255, 103, 217);
+}
+
+
+body{
+    background-color: rgb(194, 62, 255);
+}

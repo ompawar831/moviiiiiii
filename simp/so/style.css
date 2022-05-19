@@ -1,0 +1,10 @@
+h1{
+    display: flex;
+    justify-content: start;
+    background-color: aqua;
+    border: solid;
+}
+
+body{
+    background-color: blueviolet;
+}
